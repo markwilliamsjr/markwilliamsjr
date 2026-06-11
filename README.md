@@ -2,6 +2,7 @@
 I'm an ICU nurse who decided to get into a different type of coding.
 
 **Recent Projects**
+ - [markwilliamsjr/chip-8-odin-emulator](https://github.com/markwilliamsjr/chip-8-odin-emulator) - A low-level systems deep dive using Odin
  - [markwilliamsjr/ABX](https://github.com/markwilliamsjr/ABX) - Learning fundamental gamedev using C/SDL2
  - [markwilliamsjr/ComplyHealth](https://github.com/markwilliamsjr/ComplyHealth) - MVP for a local startup using Flutter
  - [markwilliamsjr/SilentMemoir](https://github.com/markwilliamsjr/SilentMemoir) - TUI journaling application in python, my first personal project
